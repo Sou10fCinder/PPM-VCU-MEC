@@ -14,7 +14,7 @@ The six models aim to comprehensively capture the intricate relationship between
 
 ## Usage
 
-To reproduce results and use the models in specific scenarios, follow the annotations provided in each .py source code file step by step. The README files within these directories provide detailed instructions for running the code successfully.
+To reproduce results and use the models in specific scenarios, follow the annotations provided in each .py source code file step by step.
 
 Feel free to explore and adapt the models to fit your research or application needs. If you encounter any issues or have questions, refer to the provided documentation or reach out to the contributors listed in the paper.
 

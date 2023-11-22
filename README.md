@@ -12,6 +12,8 @@ The six models aim to comprehensively capture the intricate relationship between
 
 - **ModelTraining:** Includes the code responsible for training the models using the obtained optimal parameters. This directory encapsulates the complete training pipeline.
 
+- **saved_models:** This directory stores the model after the completion of the training process.
+
 ## Usage
 
 To reproduce results and use the models in specific scenarios, follow the annotations provided in each .py source code file step by step.

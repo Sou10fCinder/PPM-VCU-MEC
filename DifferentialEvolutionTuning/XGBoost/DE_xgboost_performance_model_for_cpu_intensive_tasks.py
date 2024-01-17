@@ -237,7 +237,8 @@ def main():
     # Execute the differential evolution algorithm
     result = differential_evolution(
         parameter_tuning_objective_func,
-        maxiter=500,
+        maxiter=1000,
+        popsize=500,
         bounds=bounds,
         args=(test_set_ratio, keys, feature_names, df_X, df_Y),
     )
